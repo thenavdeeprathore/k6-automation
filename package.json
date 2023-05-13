@@ -1,0 +1,26 @@
+{
+  "name": "k6-automation",
+  "version": "1.0.0",
+  "description": "load testing automation using k6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance",
+    "automation",
+    "load testing",
+    "k6",
+    "JavaScript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenavdeeprathore/k6-automation.git"
+  },
+  "author": "Navdeep Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenavdeeprathore/k6-automation/issues"
+  },
+  "homepage": "https://github.com/thenavdeeprathore/k6-automation#readme"
+}
